@@ -111,7 +111,7 @@ Warm bakery aesthetic featuring:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/sweet-mechanics.git
+git clone https://github.com/Chaitanya-mishra/Sweet-Mechanics.git
 ```
 
 ### 2. Open Project
